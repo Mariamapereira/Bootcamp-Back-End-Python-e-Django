@@ -13,13 +13,18 @@
 10-Nicolle Sturzbecher<br>
 11-Mariama Pereira Nascimento<br>
 
-
-
 <h1>Contéudo curso</h1> 
 - Conceitos básico <br>
 - Tomada de Decisão e Estruturas de Repetição<br>
 - Lista,tuplas e dicionários<br>
 - Funções<br>
-- Atividades <br>
+- Orientação a Objetos com Python<br>
+- Banco de Dados<br>
+- APIs <br>
+- Inteligência Artificial e Python<br>
+- Django Web<br>
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<br>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+
+
